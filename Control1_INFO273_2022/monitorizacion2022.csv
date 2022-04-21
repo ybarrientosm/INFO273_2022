@@ -1,0 +1,5 @@
+Porcentaje_time;cumulative_seconds;self_seconds;calls;self_ms/call;total_ms/call;name
+94.77;26.11;26.11;xxxx;522.20;522.20;ordena
+2.54;26.81;0.70;2;350.00;350.00;invierte
+2.11;27.39;0.58;3;193.33;xxxxx;normaliza
+0.58;27.55;xxxx;1;160.00;26270.00;procesa
