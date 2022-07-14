@@ -1,0 +1,11 @@
+Benchmark;Reference_Time;BaseRunTime_A;PeakRunTime_A;BaseRunTime_B;PeakRunTime_B
+603,bwaves_s;590;100;100;105;105
+607,cactuBSSN_s;167;102;102;64;64
+619,lbm_s;52;47;47;87;87
+621,wrf_s;132;84;82;111;105
+627,cam4_s;89;90;90;89;89
+628,pop2_s;119;155;153;217;217
+638,imagick_s;144;113;113;68;68
+644,nab_s;175;68;68;58;50
+649,fotonik3d_s;91;97;96;96;96
+654,roms_s;157;81;81;75;75
